@@ -4,3 +4,4 @@ a) Proportion of nurses that had their licensure lapse in each state
 b) Time to licensure lapse in each state
 c) Proportion of nurses that recidivated in each state
 d) Time to recidivism in each state
+*Sorry about the long variable names!*
